@@ -1,4 +1,4 @@
-# Decode Base64 files in node js
+# Decode Base64 files in nodejs
 
 Decodes base64 files with `data:{mimeType};{encoding},{base64}` format.
 
@@ -17,7 +17,7 @@ decodeBase64File(base64File);
  *  data: <Buffer 89 50 4e 47 0d 0a 1a 0a ... 30958 more bytes>,
  *  extension: 'png'
  * }
- * /
+ */
 ```
 
 ### Save base64 file example
